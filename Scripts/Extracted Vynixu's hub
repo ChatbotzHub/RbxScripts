@@ -8,7 +8,7 @@
 --	    \_/     \____  $$|__/  |__/|__/|__/  \__/ \______/ 
 --	            /$$  | $$                                  
 --	           |  $$$$$$/                                  
--- 		        \______/   
+-- 		    \______/   
                                 
 local VynixuMM2Script = Instance.new("ScreenGui")
 local Holder = Instance.new("Frame")
